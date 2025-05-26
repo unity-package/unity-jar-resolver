@@ -4,7 +4,7 @@
 [![openupm](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=downloads&query=%24.downloads&suffix=%2Fmonth&url=https%3A%2F%2Fpackage.openupm.com%2Fdownloads%2Fpoint%2Flast-month%2Fcom.google.external-dependency-manager)](https://openupm.com/packages/com.google.external-dependency-manager/)
 
 ## Install
-Add the line below to Packages/manifest.json for version `1.2.185`
+Add the line below to Packages/manifest.json for version `1.2.186`
 ```json
 "com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.186",
 ```

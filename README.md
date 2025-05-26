@@ -6,7 +6,7 @@
 ## Install
 Add the line below to Packages/manifest.json for version `1.2.185`
 ```json
-"com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.185",
+"com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.186",
 ```
 
 ## Overview
